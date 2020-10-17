@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "927577261213",
+    "firebase_url": "https://chatpdm-66b2e.firebaseio.com",
+    "project_id": "chatpdm-66b2e",
+    "storage_bucket": "chatpdm-66b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927577261213:android:9cc214201afab4ef798074",
+        "android_client_info": {
+          "package_name": "com.jonatan.chatpdm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927577261213-bouq4q6o7c9r2lvvh5rnuo7av1vee2hu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jonatan.chatpdm",
+            "certificate_hash": "c387738131dcf461374dcd62a0e69beee376f04b"
+          }
+        },
+        {
+          "client_id": "927577261213-k7q3gdrmo7s2p1ovkch3okqgiel8f74i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkwd6tjwHqTjHV1L-buWWZ8cztfDgfUZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927577261213-k7q3gdrmo7s2p1ovkch3okqgiel8f74i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
